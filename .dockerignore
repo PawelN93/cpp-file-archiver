@@ -1,0 +1,11 @@
+build/
+.git/
+.github/
+.idea/
+.vscode/
+
+*.o
+*.a
+*.so
+*.dylib
+*.tmp
